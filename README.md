@@ -1,2 +1,3 @@
 # MachineLearning
-CSCI4622 - ML
+### CSCI4622
+### Brennon Lee
